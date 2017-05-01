@@ -1,0 +1,76 @@
+@relation InstanceResultListener
+
+@attribute Key_Dataset {spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0}
+@attribute Key_Run {1,2,3,4,5}
+@attribute Key_Scheme {weka.classifiers.functions.MultilayerPerceptron}
+@attribute Key_Scheme_options {'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a'}
+@attribute Key_Scheme_version_ID {-5990607817048210779}
+@attribute Date_time numeric
+@attribute Number_of_training_instances numeric
+@attribute Number_of_testing_instances numeric
+@attribute Number_correct numeric
+@attribute Number_incorrect numeric
+@attribute Number_unclassified numeric
+@attribute Percent_correct numeric
+@attribute Percent_incorrect numeric
+@attribute Percent_unclassified numeric
+@attribute Kappa_statistic numeric
+@attribute Mean_absolute_error numeric
+@attribute Root_mean_squared_error numeric
+@attribute Relative_absolute_error numeric
+@attribute Root_relative_squared_error numeric
+@attribute SF_prior_entropy numeric
+@attribute SF_scheme_entropy numeric
+@attribute SF_entropy_gain numeric
+@attribute SF_mean_prior_entropy numeric
+@attribute SF_mean_scheme_entropy numeric
+@attribute SF_mean_entropy_gain numeric
+@attribute KB_information numeric
+@attribute KB_mean_information numeric
+@attribute KB_relative_information numeric
+@attribute True_positive_rate numeric
+@attribute Num_true_positives numeric
+@attribute False_positive_rate numeric
+@attribute Num_false_positives numeric
+@attribute True_negative_rate numeric
+@attribute Num_true_negatives numeric
+@attribute False_negative_rate numeric
+@attribute Num_false_negatives numeric
+@attribute IR_precision numeric
+@attribute IR_recall numeric
+@attribute F_measure numeric
+@attribute Matthews_correlation numeric
+@attribute Area_under_ROC numeric
+@attribute Area_under_PRC numeric
+@attribute Weighted_avg_true_positive_rate numeric
+@attribute Weighted_avg_false_positive_rate numeric
+@attribute Weighted_avg_true_negative_rate numeric
+@attribute Weighted_avg_false_negative_rate numeric
+@attribute Weighted_avg_IR_precision numeric
+@attribute Weighted_avg_IR_recall numeric
+@attribute Weighted_avg_F_measure numeric
+@attribute Weighted_avg_matthews_correlation numeric
+@attribute Weighted_avg_area_under_ROC numeric
+@attribute Weighted_avg_area_under_PRC numeric
+@attribute Unweighted_macro_avg_F_measure numeric
+@attribute Unweighted_micro_avg_F_measure numeric
+@attribute Elapsed_Time_training numeric
+@attribute Elapsed_Time_testing numeric
+@attribute UserCPU_Time_training numeric
+@attribute UserCPU_Time_testing numeric
+@attribute UserCPU_Time_millis_training numeric
+@attribute UserCPU_Time_millis_testing numeric
+@attribute Serialized_Model_Size numeric
+@attribute Serialized_Train_Set_Size numeric
+@attribute Serialized_Test_Set_Size numeric
+@attribute Coverage_of_Test_Cases_By_Regions numeric
+@attribute Size_of_Predicted_Regions numeric
+@attribute Summary string
+
+@data
+
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,1,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0427,3221,1380,1119,261,0,81.086957,18.913043,0,0.57218,0.187062,0.393986,39.154199,80.570523,1336.34427,1331.114897,5.229373,0.968365,0.964576,0.003789,802.080879,0.581218,82947.63345,0.542125,296,0.013189,11,0.986811,823,0.457875,250,0.964169,0.542125,0.694021,0.621889,0.962967,0.941737,0.81087,0.281934,0.718066,0.18913,0.845016,0.81087,0.796225,0.621889,0.962967,0.96144,0.778578,0.81087,343.394,0.041,330.812416,0.0386,330812.416,38.6,99605,1592362,684751,94.565217,61.811594,?
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,2,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0433,3221,1380,1119,261,0,81.086957,18.913043,0,0.57218,0.187062,0.393986,39.154199,80.570523,1336.34427,1331.114897,5.229373,0.968365,0.964576,0.003789,802.080879,0.581218,82947.63345,0.542125,296,0.013189,11,0.986811,823,0.457875,250,0.964169,0.542125,0.694021,0.621889,0.962967,0.941737,0.81087,0.281934,0.718066,0.18913,0.845016,0.81087,0.796225,0.621889,0.962967,0.96144,0.778578,0.81087,342.977,0.019,340.20877,0.01847,340208.77,18.47,99605,1592362,684751,94.565217,61.811594,?
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,3,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0439,3221,1380,1119,261,0,81.086957,18.913043,0,0.57218,0.187062,0.393986,39.154199,80.570523,1336.34427,1331.114897,5.229373,0.968365,0.964576,0.003789,802.080879,0.581218,82947.63345,0.542125,296,0.013189,11,0.986811,823,0.457875,250,0.964169,0.542125,0.694021,0.621889,0.962967,0.941737,0.81087,0.281934,0.718066,0.18913,0.845016,0.81087,0.796225,0.621889,0.962967,0.96144,0.778578,0.81087,347.319,0.016,344.816546,0.01608,344816.546,16.08,99605,1592362,684751,94.565217,61.811594,?
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,4,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0443,3221,1380,1119,261,0,81.086957,18.913043,0,0.57218,0.187062,0.393986,39.154199,80.570523,1336.34427,1331.114897,5.229373,0.968365,0.964576,0.003789,802.080879,0.581218,82947.63345,0.542125,296,0.013189,11,0.986811,823,0.457875,250,0.964169,0.542125,0.694021,0.621889,0.962967,0.941737,0.81087,0.281934,0.718066,0.18913,0.845016,0.81087,0.796225,0.621889,0.962967,0.96144,0.778578,0.81087,261.286,0.018,260.614204,0.017486,260614.204,17.486,99605,1592362,684751,94.565217,61.811594,?
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,5,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 2500 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0448,3221,1380,1119,261,0,81.086957,18.913043,0,0.57218,0.187062,0.393986,39.154199,80.570523,1336.34427,1331.114897,5.229373,0.968365,0.964576,0.003789,802.080879,0.581218,82947.63345,0.542125,296,0.013189,11,0.986811,823,0.457875,250,0.964169,0.542125,0.694021,0.621889,0.962967,0.941737,0.81087,0.281934,0.718066,0.18913,0.845016,0.81087,0.796225,0.621889,0.962967,0.96144,0.778578,0.81087,264.744,0.015,264.181276,0.014998,264181.276,14.998,99605,1592362,684751,94.565217,61.811594,?

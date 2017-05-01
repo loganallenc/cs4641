@@ -1,0 +1,9 @@
+Simulated Annealing
+
+Results for Simulated Annealing: 
+Correctly classified 4275.0 instances.
+Incorrectly classified 326.0 instances.
+Percent correctly classified: 92.915%
+Training time: 356.619 seconds
+Testing time: 0.021 seconds
+

@@ -1,0 +1,9 @@
+Randomized Hill Climbing
+
+Results for Randomized Hill Climbing: 
+Correctly classified 4171.0 instances.
+Incorrectly classified 430.0 instances.
+Percent correctly classified: 90.654%
+Training time: 742.006 seconds
+Testing time: 0.042 seconds
+

@@ -1,0 +1,72 @@
+@relation InstanceResultListener
+
+@attribute Key_Dataset {spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0}
+@attribute Key_Run {1}
+@attribute Key_Scheme {weka.classifiers.functions.MultilayerPerceptron}
+@attribute Key_Scheme_options {'-L 0.3 -M 0.2 -N 3000 -V 0 -S 0 -E 20 -H a'}
+@attribute Key_Scheme_version_ID {-5990607817048210779}
+@attribute Date_time numeric
+@attribute Number_of_training_instances numeric
+@attribute Number_of_testing_instances numeric
+@attribute Number_correct numeric
+@attribute Number_incorrect numeric
+@attribute Number_unclassified numeric
+@attribute Percent_correct numeric
+@attribute Percent_incorrect numeric
+@attribute Percent_unclassified numeric
+@attribute Kappa_statistic numeric
+@attribute Mean_absolute_error numeric
+@attribute Root_mean_squared_error numeric
+@attribute Relative_absolute_error numeric
+@attribute Root_relative_squared_error numeric
+@attribute SF_prior_entropy numeric
+@attribute SF_scheme_entropy numeric
+@attribute SF_entropy_gain numeric
+@attribute SF_mean_prior_entropy numeric
+@attribute SF_mean_scheme_entropy numeric
+@attribute SF_mean_entropy_gain numeric
+@attribute KB_information numeric
+@attribute KB_mean_information numeric
+@attribute KB_relative_information numeric
+@attribute True_positive_rate numeric
+@attribute Num_true_positives numeric
+@attribute False_positive_rate numeric
+@attribute Num_false_positives numeric
+@attribute True_negative_rate numeric
+@attribute Num_true_negatives numeric
+@attribute False_negative_rate numeric
+@attribute Num_false_negatives numeric
+@attribute IR_precision numeric
+@attribute IR_recall numeric
+@attribute F_measure numeric
+@attribute Matthews_correlation numeric
+@attribute Area_under_ROC numeric
+@attribute Area_under_PRC numeric
+@attribute Weighted_avg_true_positive_rate numeric
+@attribute Weighted_avg_false_positive_rate numeric
+@attribute Weighted_avg_true_negative_rate numeric
+@attribute Weighted_avg_false_negative_rate numeric
+@attribute Weighted_avg_IR_precision numeric
+@attribute Weighted_avg_IR_recall numeric
+@attribute Weighted_avg_F_measure numeric
+@attribute Weighted_avg_matthews_correlation numeric
+@attribute Weighted_avg_area_under_ROC numeric
+@attribute Weighted_avg_area_under_PRC numeric
+@attribute Unweighted_macro_avg_F_measure numeric
+@attribute Unweighted_micro_avg_F_measure numeric
+@attribute Elapsed_Time_training numeric
+@attribute Elapsed_Time_testing numeric
+@attribute UserCPU_Time_training numeric
+@attribute UserCPU_Time_testing numeric
+@attribute UserCPU_Time_millis_training numeric
+@attribute UserCPU_Time_millis_testing numeric
+@attribute Serialized_Model_Size numeric
+@attribute Serialized_Train_Set_Size numeric
+@attribute Serialized_Test_Set_Size numeric
+@attribute Coverage_of_Test_Cases_By_Regions numeric
+@attribute Size_of_Predicted_Regions numeric
+@attribute Summary string
+
+@data
+
+spambase-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P30.0,1,weka.classifiers.functions.MultilayerPerceptron,'-L 0.3 -M 0.2 -N 3000 -V 0 -S 0 -E 20 -H a',-5990607817048210779,20170307.0423,3221,1380,1255,125,0,90.942029,9.057971,0,0.805106,0.112059,0.290985,23.455215,59.506693,1336.34427,1035.827198,300.517072,0.968365,0.750599,0.217766,1030.366772,0.746643,106555.944121,0.804029,439,0.021583,18,0.978417,816,0.195971,107,0.960613,0.804029,0.875374,0.812971,0.95778,0.934291,0.90942,0.126974,0.873026,0.09058,0.914357,0.90942,0.907696,0.812971,0.95778,0.955725,0.902115,0.90942,346.697,0.054,322.141249,0.03563,322141.249,35.63,99605,1592362,684751,94.347826,60.57971,?

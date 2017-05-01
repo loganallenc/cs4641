@@ -1,0 +1,9 @@
+Genetic Algorithm
+
+Results for Genetic Algorithm: 
+Correctly classified 2499.0 instances.
+Incorrectly classified 2102.0 instances.
+Percent correctly classified: 54.314%
+Training time: 523.601 seconds
+Testing time: 0.022 seconds
+
